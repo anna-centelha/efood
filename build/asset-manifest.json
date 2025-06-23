@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.3fd52f04.js",
+    "main.js": "/static/js/main.acbad6b1.js",
     "static/media/sushi.jpg": "/static/media/sushi.a478eaccb506b85f7c28.jpg",
     "static/media/capa_de_sushi.jpg": "/static/media/capa_de_sushi.67a529e2c78ce7f09b25.jpg",
     "static/media/capa_de_macarrao.jpg": "/static/media/capa_de_macarrao.42d67611a7d61d74f21d.jpg",
     "static/media/capa_de_margherita.jpg": "/static/media/capa_de_margherita.224b40cc7550697f718f.jpg",
     "index.html": "/index.html",
-    "main.3fd52f04.js.map": "/static/js/main.3fd52f04.js.map"
+    "main.acbad6b1.js.map": "/static/js/main.acbad6b1.js.map"
   },
   "entrypoints": [
-    "static/js/main.3fd52f04.js"
+    "static/js/main.acbad6b1.js"
   ]
 }
